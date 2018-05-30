@@ -1,0 +1,8 @@
+[Unit]
+Description=wallpaperscript
+
+[Service]
+Type=oneshot
+Enviroment=$DISPLAY
+ExecStart=/home/enzobarrett/wallpaper
+ 
