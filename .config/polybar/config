@@ -87,7 +87,7 @@ module-margin-left=2
 
 font-N=<fontconfig pattern>;<vertical offset>
 font-0="Vulf Mono:style0=Italic"
-font-1="Wuncon Siji:style=Regular"
+font-1="Wuncon Siji:pixelsize=500;2"
 font-2=GohuFont:pixelsize=10;2
 
 modules-left= bspwm
