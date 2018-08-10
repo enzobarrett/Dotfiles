@@ -1,0 +1,3 @@
+#!/bin/bash
+FILE="$(shuf -n1 -e /home/enzobarrett/papers/*)"
+wal -i $FILE
